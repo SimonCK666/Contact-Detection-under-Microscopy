@@ -20,6 +20,6 @@ Contact Detection Methods under Microscopy
 
 ![contourRes.png](img/contourRes.png)
 
-![](C:\Users\dell\AppData\Roaming\marktext\images\2023-01-30-16-37-11-image.png)
+![cdmp.png](img/cdmp.png)
 
 ![](img/2015A.png)
